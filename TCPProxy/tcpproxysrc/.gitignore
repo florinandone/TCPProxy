@@ -1,0 +1,10 @@
+# Build output
+build/
+.gradle/
+target/
+*.class
+*.pcap
+
+# IDE
+.idea/
+*.iml
